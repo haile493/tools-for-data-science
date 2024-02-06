@@ -1,2 +1,2 @@
-# tools-for-data-science
+# Tools for data science
 Final Exam
